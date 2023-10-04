@@ -1,4 +1,4 @@
-[![Python template with Github Actions](https://github.com/drktao/python-template/actions/workflows/main.yml/badge.svg)](https://github.com/drktao/python-template/actions/workflows/main.yml)
+[![Test Python Versions](https://github.com/nogibjj/drktao-week4mp-matrix/actions/workflows/main.yml/badge.svg)](https://github.com/nogibjj/drktao-week4mp-matrix/actions/workflows/main.yml)
 
 # Week 4
 The purpose of this project is to test code in multiple different Python versions and operating systems in Github Actions. The YAML configuration was altered to allow multiple jobs to be run. The tests are run using the same `first.py` script used in the python template from week 1. Below are the changes made to main.yml to incorporate ubuntu and windows operating systems, as well as Python versions 3.8, 3.9, and 3.11. 
